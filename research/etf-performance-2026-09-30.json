@@ -1,0 +1,960 @@
+{
+  "asOf": "2026-09-30",
+  "retrieved": "2026-10-08",
+  "rows": [
+    {
+      "key": "3m",
+      "label": "3 месяца",
+      "start": "2026-06-30",
+      "years": null,
+      "pzuPLN": 0.9110752586124926,
+      "vanguardEUR": 1.955682529852809,
+      "isharesUSD": 1.622191,
+      "vanguardUSD": 1.640868563502118
+    },
+    {
+      "key": "6m",
+      "label": "6 месяцев",
+      "start": "2026-03-31",
+      "years": null,
+      "pzuPLN": null,
+      "vanguardEUR": 17.822573006766575,
+      "isharesUSD": 16.79417,
+      "vanguardUSD": 16.711722049036283
+    },
+    {
+      "key": "ytd",
+      "label": "С начала 2026 года",
+      "start": "2025-12-31",
+      "years": null,
+      "pzuPLN": null,
+      "vanguardEUR": 16.754470778552722,
+      "isharesUSD": 13.093006,
+      "vanguardUSD": 13.001863589152517
+    },
+    {
+      "key": "1y",
+      "label": "1 год",
+      "start": "2025-09-30",
+      "years": 1,
+      "pzuPLN": null,
+      "vanguardEUR": 20.796987517966702,
+      "isharesUSD": 16.821558,
+      "vanguardUSD": 16.71150891542399
+    },
+    {
+      "key": "3y",
+      "label": "3 года",
+      "start": "2023-09-29",
+      "years": 3,
+      "pzuPLN": null,
+      "vanguardEUR": 68.1271826297802,
+      "isharesUSD": 80.397951,
+      "vanguardUSD": 80.01207383685242
+    },
+    {
+      "key": "5y",
+      "label": "5 лет",
+      "start": "2021-09-30",
+      "years": 5,
+      "pzuPLN": null,
+      "vanguardEUR": 76.56451844073364,
+      "isharesUSD": 73.600612,
+      "vanguardUSD": 72.827745723913
+    },
+    {
+      "key": "10y",
+      "label": "10 лет",
+      "start": "2016-09-30",
+      "years": 10,
+      "pzuPLN": null,
+      "vanguardEUR": null,
+      "isharesUSD": 219.504264,
+      "vanguardUSD": null
+    },
+    {
+      "key": "15y",
+      "label": "15 лет",
+      "start": null,
+      "years": 15,
+      "pzuPLN": null,
+      "vanguardEUR": null,
+      "isharesUSD": null,
+      "vanguardUSD": null
+    },
+    {
+      "key": "20y",
+      "label": "20 лет",
+      "start": null,
+      "years": 20,
+      "pzuPLN": null,
+      "vanguardEUR": null,
+      "isharesUSD": null,
+      "vanguardUSD": null
+    },
+    {
+      "key": "25y",
+      "label": "25 лет",
+      "start": null,
+      "years": 25,
+      "pzuPLN": null,
+      "vanguardEUR": null,
+      "isharesUSD": null,
+      "vanguardUSD": null
+    }
+  ],
+  "fx": {
+    "2016-09-30": {
+      "date": "2016-09-30",
+      "table": "190/A/NBP/2016",
+      "USDPLN": 3.8558,
+      "EURPLN": 4.312,
+      "source": "https://api.nbp.pl/api/exchangerates/tables/a/2016-09-30/?format=json"
+    },
+    "2021-09-30": {
+      "date": "2021-09-30",
+      "table": "190/A/NBP/2021",
+      "USDPLN": 3.9925,
+      "EURPLN": 4.6329,
+      "source": "https://api.nbp.pl/api/exchangerates/tables/a/2021-09-30/?format=json"
+    },
+    "2023-09-29": {
+      "date": "2023-09-29",
+      "table": "189/A/NBP/2023",
+      "USDPLN": 4.3697,
+      "EURPLN": 4.6356,
+      "source": "https://api.nbp.pl/api/exchangerates/tables/a/2023-09-29/?format=json"
+    },
+    "2025-09-30": {
+      "date": "2025-09-30",
+      "table": "189/A/NBP/2025",
+      "USDPLN": 3.6315,
+      "EURPLN": 4.2692,
+      "source": "https://api.nbp.pl/api/exchangerates/tables/a/2025-09-30/?format=json"
+    },
+    "2025-12-31": {
+      "date": "2025-12-31",
+      "table": "251/A/NBP/2025",
+      "USDPLN": 3.6016,
+      "EURPLN": 4.2267,
+      "source": "https://api.nbp.pl/api/exchangerates/tables/a/2025-12-31/?format=json"
+    },
+    "2026-03-31": {
+      "date": "2026-03-31",
+      "table": "062/A/NBP/2026",
+      "USDPLN": 3.7408,
+      "EURPLN": 4.2894,
+      "source": "https://api.nbp.pl/api/exchangerates/tables/a/2026-03-31/?format=json"
+    },
+    "2026-06-30": {
+      "date": "2026-06-30",
+      "table": "124/A/NBP/2026",
+      "USDPLN": 3.7708,
+      "EURPLN": 4.2963,
+      "source": "https://api.nbp.pl/api/exchangerates/tables/a/2026-06-30/?format=json"
+    },
+    "2026-09-30": {
+      "date": "2026-09-30",
+      "table": "190/A/NBP/2026",
+      "USDPLN": 3.8449,
+      "EURPLN": 4.3672,
+      "source": "https://api.nbp.pl/api/exchangerates/tables/a/2026-09-30/?format=json"
+    }
+  },
+  "pzuNAV": {
+    "2026-09-30": 106.33,
+    "2026-06-30": 105.37,
+    "first": "2026-04-16"
+  },
+  "vanguardMonthlyUSDReturns": [
+    {
+      "portId": "9679",
+      "effectiveDate": "2026-09-30",
+      "CMLT": {
+        "_1MTH": -1.1554101985,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2026-08-31",
+      "CMLT": {
+        "_1MTH": 2.7417663323,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2026-07-31",
+      "CMLT": {
+        "_1MTH": 0.0848715979,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2026-06-30",
+      "CMLT": {
+        "_1MTH": -0.8525701671,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2026-05-31",
+      "CMLT": {
+        "_1MTH": 5.1965759416,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2026-04-30",
+      "CMLT": {
+        "_1MTH": 10.0938462728,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2026-03-31",
+      "CMLT": {
+        "_1MTH": -7.3069182127,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2026-02-28",
+      "CMLT": {
+        "_1MTH": 1.4180732378,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2026-01-31",
+      "CMLT": {
+        "_1MTH": 2.9931762701,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-12-31",
+      "CMLT": {
+        "_1MTH": 1.0623083929,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-11-30",
+      "CMLT": {
+        "_1MTH": 0.0375984651,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-10-31",
+      "CMLT": {
+        "_1MTH": 2.1587586042,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-09-30",
+      "CMLT": {
+        "_1MTH": 3.5728561287,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-08-31",
+      "CMLT": {
+        "_1MTH": 2.5357812399,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-07-31",
+      "CMLT": {
+        "_1MTH": 1.3425645978,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-06-30",
+      "CMLT": {
+        "_1MTH": 4.4399073018,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-05-31",
+      "CMLT": {
+        "_1MTH": 5.6969371749,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-04-30",
+      "CMLT": {
+        "_1MTH": 1.0091100415,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-03-31",
+      "CMLT": {
+        "_1MTH": -3.7425623385,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-02-28",
+      "CMLT": {
+        "_1MTH": -0.5817643917,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2025-01-31",
+      "CMLT": {
+        "_1MTH": 3.3256912211,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-12-31",
+      "CMLT": {
+        "_1MTH": -2.3158836512,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-11-30",
+      "CMLT": {
+        "_1MTH": 3.6061892237,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-10-31",
+      "CMLT": {
+        "_1MTH": -2.3099797754,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-09-30",
+      "CMLT": {
+        "_1MTH": 2.3470939071,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-08-31",
+      "CMLT": {
+        "_1MTH": 2.5310517347,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-07-31",
+      "CMLT": {
+        "_1MTH": 1.7225318077,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-06-30",
+      "CMLT": {
+        "_1MTH": 2.1112069422,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-05-31",
+      "CMLT": {
+        "_1MTH": 4.0261646856,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-04-30",
+      "CMLT": {
+        "_1MTH": -3.1762683081,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-03-31",
+      "CMLT": {
+        "_1MTH": 3.012370766,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-02-29",
+      "CMLT": {
+        "_1MTH": 4.1899443691,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2024-01-31",
+      "CMLT": {
+        "_1MTH": 0.5915111213,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-12-31",
+      "CMLT": {
+        "_1MTH": 4.7519527146,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-11-30",
+      "CMLT": {
+        "_1MTH": 9.1733412325,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-10-31",
+      "CMLT": {
+        "_1MTH": -3.0125442089,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-09-30",
+      "CMLT": {
+        "_1MTH": -4.049579034,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-08-31",
+      "CMLT": {
+        "_1MTH": -2.7405385751,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-07-31",
+      "CMLT": {
+        "_1MTH": 3.6560169069,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-06-30",
+      "CMLT": {
+        "_1MTH": 5.6774229462,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-05-31",
+      "CMLT": {
+        "_1MTH": -1.0584191135,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-04-30",
+      "CMLT": {
+        "_1MTH": 1.4997301257,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-03-31",
+      "CMLT": {
+        "_1MTH": 3.0401983101,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-02-28",
+      "CMLT": {
+        "_1MTH": -2.876076105,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2023-01-31",
+      "CMLT": {
+        "_1MTH": 7.088295357,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-12-31",
+      "CMLT": {
+        "_1MTH": -3.7702540573,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-11-30",
+      "CMLT": {
+        "_1MTH": 7.816897333,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-10-31",
+      "CMLT": {
+        "_1MTH": 5.9169005004,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-09-30",
+      "CMLT": {
+        "_1MTH": -9.5627750557,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-08-31",
+      "CMLT": {
+        "_1MTH": -3.6285192491,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-07-31",
+      "CMLT": {
+        "_1MTH": 6.8211144377,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-06-30",
+      "CMLT": {
+        "_1MTH": -8.3910173623,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-05-31",
+      "CMLT": {
+        "_1MTH": 0.1586362711,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-04-30",
+      "CMLT": {
+        "_1MTH": -7.8910937603,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-03-31",
+      "CMLT": {
+        "_1MTH": 2.2189517929,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-02-28",
+      "CMLT": {
+        "_1MTH": -2.6445860824,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2022-01-31",
+      "CMLT": {
+        "_1MTH": -4.7961914787,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-12-31",
+      "CMLT": {
+        "_1MTH": 4.1086851573,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-11-30",
+      "CMLT": {
+        "_1MTH": -2.5350811441,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-10-31",
+      "CMLT": {
+        "_1MTH": 4.9818413559,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-09-30",
+      "CMLT": {
+        "_1MTH": -4.0590664389,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-08-31",
+      "CMLT": {
+        "_1MTH": 2.4751970719,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-07-31",
+      "CMLT": {
+        "_1MTH": 0.6084322794,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-06-30",
+      "CMLT": {
+        "_1MTH": 1.1923977426,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-05-31",
+      "CMLT": {
+        "_1MTH": 1.6049913508,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-04-30",
+      "CMLT": {
+        "_1MTH": 4.2965496998,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-03-31",
+      "CMLT": {
+        "_1MTH": 2.7973938692,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-02-28",
+      "CMLT": {
+        "_1MTH": 2.3347622391,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2021-01-31",
+      "CMLT": {
+        "_1MTH": -0.4497730108,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-12-31",
+      "CMLT": {
+        "_1MTH": 4.6099669639,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-11-30",
+      "CMLT": {
+        "_1MTH": 12.3790533319,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-10-31",
+      "CMLT": {
+        "_1MTH": -2.4877700517,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-09-30",
+      "CMLT": {
+        "_1MTH": -3.218739898,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-08-31",
+      "CMLT": {
+        "_1MTH": 6.1871126493,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-07-31",
+      "CMLT": {
+        "_1MTH": 5.1479644424,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-06-30",
+      "CMLT": {
+        "_1MTH": 3.1423424991,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-05-31",
+      "CMLT": {
+        "_1MTH": 4.439435581,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-04-30",
+      "CMLT": {
+        "_1MTH": 10.6275958909,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-03-31",
+      "CMLT": {
+        "_1MTH": -13.507770941,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-02-29",
+      "CMLT": {
+        "_1MTH": -8.0906768688,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2020-01-31",
+      "CMLT": {
+        "_1MTH": -1.1630729281,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2019-12-31",
+      "CMLT": {
+        "_1MTH": 3.575110151,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2019-11-30",
+      "CMLT": {
+        "_1MTH": 2.4097157294,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2019-10-31",
+      "CMLT": {
+        "_1MTH": 2.7976305046,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2019-09-30",
+      "CMLT": {
+        "_1MTH": 2.1851227393,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2019-08-31",
+      "CMLT": {
+        "_1MTH": -2.3657590301,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    },
+    {
+      "portId": "9679",
+      "effectiveDate": "2019-07-31",
+      "CMLT": {
+        "_1MTH": null,
+        "__typename": "PolarisPerformanceCumulativePeriod"
+      },
+      "__typename": "PolarisGpxPerformanceReturn"
+    }
+  ],
+  "sources": {
+    "pzu": "https://in.pzu.pl/fundusze-etf/pzu-etf-msci-world-portfelowy-fiz/etfpzuworld",
+    "vanguard": "https://www.vanguard.co.uk/professional/product/etf/equity/9679/ftse-all-world-ucits-etf-usd-accumulating",
+    "ishares": "https://www.ishares.com/uk/individual/en/products/251850/ishares-msci-acwi",
+    "isharesFactsheet": "https://www.ishares.com/gls-download/literature/fact-sheet/ssac-ishares-msci-all-country-world-ucits-etf-fund-fact-sheet-en-gb.pdf"
+  }
+}
