@@ -1,0 +1,35 @@
+{
+  "checked": "2026-10-09",
+  "funds": [
+    {
+      "name": "Invesco MSCI World UCITS ETF — Acc",
+      "assets": "9,887 млрд USD",
+      "asOf": "31.08.2026",
+      "accumulatingClassAssets": null
+    },
+    {
+      "name": "SPDR MSCI World UCITS ETF — Acc",
+      "assets": "22,337 млрд USD",
+      "asOf": "30.09.2026",
+      "accumulatingClassAssets": "20,71 млрд USD"
+    },
+    {
+      "name": "Vanguard FTSE All-World UCITS ETF — Acc",
+      "assets": "85,317 млрд USD",
+      "asOf": "31.08.2026",
+      "accumulatingClassAssets": "58,05 млрд USD"
+    },
+    {
+      "name": "iShares MSCI ACWI UCITS ETF — Acc",
+      "assets": "37,217 млрд USD",
+      "asOf": "07.10.2026",
+      "accumulatingClassAssets": "36,02 млрд USD"
+    },
+    {
+      "name": "PZU ETF MSCI World Portfelowy FIZ",
+      "assets": "64,495 млн PLN",
+      "asOf": "30.06.2026",
+      "accumulatingClassAssets": null
+    }
+  ]
+}
