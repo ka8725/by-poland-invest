@@ -1,0 +1,76 @@
+{
+  "monthlyContributionPLN": 500,
+  "initialCapitalPLN": 0,
+  "annualEffectiveRate": 0.08,
+  "monthlyRate": 0.00643403011000343,
+  "contributionTiming": "end of month",
+  "formula": "500 * ((1 + r) ** months - 1) / r",
+  "exclusions": [
+    "tax",
+    "fund and broker costs",
+    "currency conversion",
+    "inflation"
+  ],
+  "rows": [
+    {
+      "year": 1,
+      "contributionsPLN": 6000,
+      "capitalPLN": 6217,
+      "gainPLN": 217
+    },
+    {
+      "year": 2,
+      "contributionsPLN": 12000,
+      "capitalPLN": 12931,
+      "gainPLN": 931
+    },
+    {
+      "year": 3,
+      "contributionsPLN": 18000,
+      "capitalPLN": 20183,
+      "gainPLN": 2183
+    },
+    {
+      "year": 4,
+      "contributionsPLN": 24000,
+      "capitalPLN": 28014,
+      "gainPLN": 4014
+    },
+    {
+      "year": 5,
+      "contributionsPLN": 30000,
+      "capitalPLN": 36472,
+      "gainPLN": 6472
+    },
+    {
+      "year": 6,
+      "contributionsPLN": 36000,
+      "capitalPLN": 45607,
+      "gainPLN": 9607
+    },
+    {
+      "year": 7,
+      "contributionsPLN": 42000,
+      "capitalPLN": 55473,
+      "gainPLN": 13473
+    },
+    {
+      "year": 8,
+      "contributionsPLN": 48000,
+      "capitalPLN": 66127,
+      "gainPLN": 18127
+    },
+    {
+      "year": 9,
+      "contributionsPLN": 54000,
+      "capitalPLN": 77634,
+      "gainPLN": 23634
+    },
+    {
+      "year": 10,
+      "contributionsPLN": 60000,
+      "capitalPLN": 90062,
+      "gainPLN": 30062
+    }
+  ]
+}
